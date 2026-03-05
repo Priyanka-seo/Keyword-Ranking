@@ -40,8 +40,11 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 
 |Activity / Step | How/Methods| Uses/Purpose|
 |---------|---------|-----|
+|**keyword ranking**| Search volume, compettior research, Keyword Placement- in H1 Tag, Heading, Anchor text, Content, Alternative and LSI Keywords, Schema mark up, Backlinking, Meta title and description etc| Help to rank and increase Traffic and leads|
 |**Selecting Target Keywords**| Considered Search Intent, Keyword Inetnt, Competitor analyses, use Long tail keyword | Choose keywords that match user intent and have ranking potential|
 |**Keywords into content strategy**| Use keyword natually, Keyword Placeemnt, use of LSI and alternative keywords to avoid keyword stuffing| Help in ranking the content on right keyword which leads ranking in SERP and engage Traffic to the site|
+|**keyword-optimized content**| Keyword Reasearch, Plan the content around the keyword, high quality content, optimized the content| Help to rank the content|
+
 
 
   
