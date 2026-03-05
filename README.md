@@ -11,7 +11,13 @@ For example, if a website ranks #1 for the keyword “Azure course in pune with 
   <img src="https://github.com/user-attachments/assets/f3c02016-bf4c-4b3f-8cbf-4ff4afcbfb42" width="600" alt="Keyword Ranking Example"/>
 </p>
 
-
+## Keyword Reasearch Proccess 
+### Brainstorm
+- What keywords should you be found for?
+- What are your Unique Selling Points (USPs)?
+- Who's your target audience, really?
+- Who are your competitors?
+- What keywords should you be found for?
 
 
 
