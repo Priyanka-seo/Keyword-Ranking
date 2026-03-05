@@ -27,8 +27,8 @@ For example, if a website ranks #1 for the keyword “Azure course in pune with 
 
 - What are your Unique Selling Points (USPs)?- Your USP Keyword as per research volume, 100% Placement assistance, Free Demo, Training methods, Learning Modules
 - Who's your target audience, really?- Know your Traget audience completely and find keywords as per target audience.
-- Who are your competitors?- Ananlyses of your competitor, Competitor Gap Analysis for keywords which you dont tap but your competitor do, what they are doing analyse thier keywords, USP, Offers, Blogs, Case study, Social media, Ads.
-- What keywords should you be found for?- After finding keywords from different sourses need to compile the list of keywords and check the trend, Search volume than separte the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
+- Who are your competitors?- Ananlyses of your competitor, Competitor Gap Analysis for keywords which you don't tap but your competitor do, what they are doing analyse thier keywords and create a list of keywords.
+- What keywords should you be found for?- After finding keywords from different sourses need to compile the list of keywords than remove the dublicate keywords, negative keywords and check the trend, Search volume than separte the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
 
   
    
