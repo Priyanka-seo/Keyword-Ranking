@@ -13,7 +13,7 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 
 ## Keyword Reasearch Proccess 
 ### Brainstorm
-- **What keywords should you be found for?**- Seed keywords, Keywords from SERP, Keywords from People search, Keyword finding tools, Competitor research, Google search console.
+- **What keywords should you be found for?**- The Primary, Scondary keywords and other keywords for which we want to be found these are few ways to find out those keywords- Seed keywords, Keywords from SERP, Keywords from People search, Keyword finding tools, Competitor research, Google search console.
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/15b66964-6b8a-48e3-9d2a-edaa3e065338" width="450"></td>
