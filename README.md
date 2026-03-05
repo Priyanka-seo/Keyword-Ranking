@@ -36,6 +36,14 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 | **Keywords Important for SEO** | Keywords are the foundation of SEO. They tell search engines what your page is about and help attract relevant traffic. Important keywords include **primary, secondary, long-tail, LSI, and transactional keywords**. Using the right keywords in **title, headings, content, URLs, and meta tags** improves rankings. |
 | **Good Keywords in SEO** | Good keywords are **relevant, high intent, moderately competitive, and have measurable search volume**. They align with user intent and your business goals. Tools like **Google Keyword Planner, SEMrush, Ahrefs, and Ubersuggest** help identify these keywords. Focus on **long-tail variations** for higher chances of ranking. |
 
+## Where and how to use the Keywords for Ranking.
+
+|Activity / Step | How/Methods| Uses/Purpose|
+|---------|---------|-----|
+|**Selecting Target Keywords**| Considered Search Intent, Keyword Inetnt, Competitor analyses, use Long tail keyword | Choose keywords that match user intent and have ranking potential|
+|**Keywords into content strategy**| Use keyword natually, Keyword Placeemnt, use of LSI and alternative keywords to avoid keyword stuffing| Help in ranking the content on right keyword which leads ranking in SERP and engage Traffic to the site|
+
+
   
    
 
