@@ -13,7 +13,9 @@ For example, if a website ranks #1 for the keyword “Azure course in pune with 
 
 ## Keyword Reasearch Proccess 
 ### Brainstorm
-### **What keywords should you be found for?** Seed keywords | Keywords from SERP | Keywords from People search | Keyword finding tools
+### What keywords should you be found for?
+-Seed keywords | Keywords from SERP | Keywords from People search | Keyword finding tools
+
 - What are your Unique Selling Points (USPs)?
 - Who's your target audience, really?
 - Who are your competitors?
