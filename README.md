@@ -30,6 +30,12 @@ For example, if a website ranks #1 for the keyword “Azure course in pune with 
 - Who are your competitors?- Analyses of your competitor, Competitor Gap Analysis for keywords which you don't tap but your competitor do, what they are doing analyse thier keywords and create a list of keywords.
 - What keywords should you be found for?- After finding keywords from different sourses need to compile the list of keywords than remove the dublicate keywords, negative keywords and check the trend, Search volume than separte the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
 
+
+| Topic | Description |
+|-------|-------------|
+| **Keywords Important for SEO** | Keywords are the foundation of SEO. They tell search engines what your page is about and help attract relevant traffic. Important keywords include **primary, secondary, long-tail, LSI, and transactional keywords**. Using the right keywords in **title, headings, content, URLs, and meta tags** improves rankings. |
+| **Good Keywords in SEO** | Good keywords are **relevant, high intent, moderately competitive, and have measurable search volume**. They align with user intent and your business goals. Tools like **Google Keyword Planner, SEMrush, Ahrefs, and Ubersuggest** help identify these keywords. Focus on **long-tail variations** for higher chances of ranking. |
+
   
    
 
