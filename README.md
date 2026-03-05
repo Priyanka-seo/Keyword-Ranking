@@ -1,5 +1,5 @@
 # Keyword-Ranking
-This is How I track and monitor Google keyword rankings as part of my SEO work. It includes checking performance in Search Console, analyzing SERPs, tracking competitors, and making improvements based on ranking insights to grow organic visibility.
+Keywords are the foundation of SEO, acting as the bridge between user search queries and relevant content.This is How I Find, use, track and monitor the keywords keyword research and use as part of my SEO work. It includes checking performance in Search Console, analyzing SERPs, tracking competitors, and making improvements based on ranking insights to grow organic visibility.
 
 ## Keyword Ranking
 
