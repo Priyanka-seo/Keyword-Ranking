@@ -25,15 +25,12 @@ For example, if a website ranks #1 for the keyword “Azure course in pune with 
   </tr>
 </table>
 
-- What are your Unique Selling Points (USPs)?
-- Who's your target audience, really?
-- Who are your competitors?
-- What keywords should you be found for?
+- What are your Unique Selling Points (USPs)?- Your USP Keyword as per research volume, 100% Placement, Free Demo, Training, Learning Modules
+- Who's your target audience, really?- Know your Traget audience completely and create content as per 
+- Who are your competitors?- Ananlyses of your competitor what the are doing analyse thier keywords, USP, Offers, Blogs, Case study.
+- What keywords should you be found for?- After finding keywords from different sourses need to check the trend, Search volume than separte the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
+   
 
-<img width="1771" height="883" alt="image" src="https://github.com/user-attachments/assets/15b66964-6b8a-48e3-9d2a-edaa3e065338" />
-<img width="1611" height="529" alt="image" src="https://github.com/user-attachments/assets/8789813e-a265-4d1e-ac56-9381b12d9cac" />
-<img width="1490" height="652" alt="image" src="https://github.com/user-attachments/assets/bd3eaa39-bd2c-444b-8a35-6d06c6513679" />
-<img width="1919" height="644" alt="image" src="https://github.com/user-attachments/assets/7a56cb7b-87fe-4ace-a4db-ca74491a2086" />
 
 
 
