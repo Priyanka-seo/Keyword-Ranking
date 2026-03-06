@@ -11,6 +11,10 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
   <img src="https://github.com/user-attachments/assets/f3c02016-bf4c-4b3f-8cbf-4ff4afcbfb42" width="600" alt="Keyword Ranking Example"/>
 </p>
 
+## Keyword Rankings (Local + Organic) (3RI Technologies)
+![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/b4e1095b485613dba389b8e2170ef69310b97988/Keyword%20Ranking.jpg)
+
+
 ## Keyword Reasearch Proccess 
 ### Brainstorm
 - **What keywords should you be found for?**- The Primary, secondary and other keywords for which we want to be found these are few ways to find out those keywords- Seed keywords, Keywords from SERP, Keywords from People search, Keyword finding tools, Competitor research, Google search console.
