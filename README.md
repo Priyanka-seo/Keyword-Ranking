@@ -34,6 +34,7 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 - **Who are your competitors?**- Analyses of your competitor, Competitor Gap Analysis for keywords which you don't tap but your competitor do, what they are doing analyse thier keywords and create a list of keywords.
 - **Merging all keywords in one list**- After finding keywords from different sourses need to compile the list of keywords than remove the dublicate keywords, negative keywords and check the trend, Search volume than separate the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
 <br/>
+
 ## Blog Keyword Ranking – 3RI Technologies
 Screenshort of blog keywords ranking in Google search for 3RI Technologies. These results highlight the organic visibility achieved through blog content.
 <br/>
