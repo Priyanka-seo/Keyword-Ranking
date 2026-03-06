@@ -35,6 +35,17 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 - **Merging all keywords in one list**- After finding keywords from different sourses need to compile the list of keywords than remove the dublicate keywords, negative keywords and check the trend, Search volume than separate the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
 <br/>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3061abc6-c469-43d6-b0f3-ab4377b3fff1" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9cab9505-dd62-4a80-b7bc-7698f2e307f0" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/03d3d4e6-d391-4954-866e-e7f709eb7471" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/39f2ce2e-2260-4764-bd6b-e89b555d047b" width="100%"/></td>
+  </tr>
+</table>
+
 | Topic | Description |
 |-------|-------------|
 | **Keywords Important for SEO** | Keywords are the foundation of SEO. They tell search engines what your page is about and help attract relevant traffic. Important keywords include **primary, secondary, long-tail, LSI, and transactional keywords**. Using the right keywords in **title, headings, content, URLs, and meta tags** improves rankings. |
@@ -49,8 +60,6 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 |**Keywords into content strategy**| Use keyword natually, Keyword Placeemnt, use of LSI and alternative keywords to avoid keyword stuffing| Help in ranking the content on right keyword which leads ranking in SERP and engage Traffic to the site|
 |**keyword-optimized content**| Keyword Reasearch, Plan the content around the keyword, high quality content, optimized the content| Help to rank the content|
 |**keyword clusters**| Keyword cluster find similar or relative keywords around the topic create cluster and pillar content, content pyramid| Help to rank trageted keyword Fast|
-
-<img width="1919" height="722" alt="image" src="https://github.com/user-attachments/assets/a89ea073-7acf-4715-a74d-441571ae830b" />
 
 
 
