@@ -34,15 +34,19 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 - **Who are your competitors?**- Analyses of your competitor, Competitor Gap Analysis for keywords which you don't tap but your competitor do, what they are doing analyse thier keywords and create a list of keywords.
 - **Merging all keywords in one list**- After finding keywords from different sourses need to compile the list of keywords than remove the dublicate keywords, negative keywords and check the trend, Search volume than separate the keywords as per their intent where we can use them in Money pages, Local GMB or Blogs.
 <br/>
-
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3061abc6-c469-43d6-b0f3-ab4377b3fff1" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9cab9505-dd62-4a80-b7bc-7698f2e307f0" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fad66ff8-14c2-475b-9dc6-0313843d13d2" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/a59c2ab9-03a9-4d15-a9d4-a7f39e9d1f84" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/03d3d4e6-d391-4954-866e-e7f709eb7471" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/39f2ce2e-2260-4764-bd6b-e89b555d047b" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c4408f73-4723-4665-97e2-f86d89d9cf73" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/b6183b80-0f26-4cf3-9de9-23f926b5baeb" width="100%"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/19df5cd2-9bae-4427-a5d9-e2fa61c4a3de" width="65%">
+    </td>
   </tr>
 </table>
 
@@ -61,6 +65,11 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 |**keyword-optimized content**| Keyword Reasearch, Plan the content around the keyword, high quality content, optimized the content| Help to rank the content|
 |**keyword clusters**| Keyword cluster find similar or relative keywords around the topic create cluster and pillar content, content pyramid| Help to rank trageted keyword Fast|
 
+<img width="1919" height="782" alt="image" src="https://github.com/user-attachments/assets/fad66ff8-14c2-475b-9dc6-0313843d13d2" />
+<img width="1914" height="779" alt="image" src="https://github.com/user-attachments/assets/a59c2ab9-03a9-4d15-a9d4-a7f39e9d1f84" />
+<img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/c4408f73-4723-4665-97e2-f86d89d9cf73" />
+<img width="1918" height="538" alt="image" src="https://github.com/user-attachments/assets/b6183b80-0f26-4cf3-9de9-23f926b5baeb" />
+<img width="1913" height="750" alt="image" src="https://github.com/user-attachments/assets/19df5cd2-9bae-4427-a5d9-e2fa61c4a3de" />
 
 
 
