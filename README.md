@@ -50,6 +50,9 @@ For example, if a website ranks #1 for the keyword “**Azure course in pune wit
 |**keyword-optimized content**| Keyword Reasearch, Plan the content around the keyword, high quality content, optimized the content| Help to rank the content|
 |**keyword clusters**| Keyword cluster find similar or relative keywords around the topic create cluster and pillar content, content pyramid| Help to rank trageted keyword Fast|
 
+<img width="1919" height="722" alt="image" src="https://github.com/user-attachments/assets/a89ea073-7acf-4715-a74d-441571ae830b" />
+
+
 
 
   
